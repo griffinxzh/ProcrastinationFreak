@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{6E4F6E7F-2967-828D-E5B7-B09F86313E5C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/snooze.cs">
+    <Files>
+      <File FileName="Assets/Script/timer.cs" Line="46" Column="1" />
+      <File FileName="Assets/Script/snooze.cs" Line="61" Column="1" />
+      <File FileName="Assets/Script/toWinScene.cs" Line="13" Column="6" />
+      <File FileName="Assets/Script/toLoseScene.cs" Line="4" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="941c317b-1051-401e-8155-53f7c5c6c618" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
